@@ -22,12 +22,12 @@
 
 ❗️ Stock Video for Football Match
 
-![]()
+![](https://github.com/yashindulkar/Object-Detection-using-YOLO/blob/master/Video/Stock%20Video.gif)
 
 ❗️ Using Darknet on the Stock Video
 
-![]()
+![](https://github.com/yashindulkar/Object-Detection-using-YOLO/blob/master/Video/Darknet.gif)
 
 ❗️ Using Deepsort on the Stock Video
 
-![]()
+![](https://github.com/yashindulkar/Object-Detection-using-YOLO/blob/master/Video/Deepsort.gif)

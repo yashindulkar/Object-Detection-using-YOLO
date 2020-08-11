@@ -18,8 +18,6 @@
 
 ### ⚫️ Visual representation 
 
-1️⃣ Using Darknet
-
 ❗️ Stock Video for Football Match
 
 ![](https://github.com/yashindulkar/Object-Detection-using-YOLO/blob/master/Video/Stock%20Video.gif)
